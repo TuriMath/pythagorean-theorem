@@ -1,1 +1,4 @@
 # sha256  path. Statements locked after their A<->B PR merged. Lines are only ever added (scripts/gate.py, check 6).
+bd041d12cb016dad41c28c1492f6bed8f612d54bb9021acf907a3622ed6b9167  Theorems/PythagoreanTheorem/A.lean
+8d0a06711b33be60f83ee8c0eec9143f69b990137d2587a06f353b5baf2d6054  Theorems/PythagoreanTheorem/B.lean
+1b3ad49bfbab5aaceeea7f7e3582c3c152a5d5ce0adaa34858691fc33760b423  Theorems/PythagoreanTheorem/Equiv.lean
