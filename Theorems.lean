@@ -2,3 +2,4 @@
 import Theorems.PythagoreanTheorem.A
 import Theorems.PythagoreanTheorem.B
 import Theorems.PythagoreanTheorem.Equiv
+import Theorems.PythagoreanTheorem.Proof
